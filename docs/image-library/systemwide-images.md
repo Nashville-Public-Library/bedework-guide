@@ -1,4 +1,8 @@
-# System-wide Programs 
+---
+sidebar_position: 2
+---
+
+# System-wide Programs
 | Program / Series                                  | Image URL                                                                       | Thumbnail URL                                                                         | Alt Text                                     |
 |---------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------|
 | African American History Month                    | /public/images/AAHM_Web resized-202101260458.jpg                                | /public/images/AAHM_Web resized-202101260458-thumb.png                                | African American History Month               |

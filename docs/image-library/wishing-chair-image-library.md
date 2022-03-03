@@ -1,4 +1,8 @@
-# Wishing Chair Productions Images 
+---
+sidebar_position: 3
+---
+
+# Wishing Chair Productions Images
 | Wishing Chair Show                                   | Image URL                                                                                  | Show Thumbnail URL                                                                 | Logo Thumbnail URL                      | Alt Text                                                 |
 |------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------|
 | Aesop's Fables                                       | /public/images/aesop'sFables_white-201606200929.jpg                                        |                                                                                    | /public/images/puppet-show-black-80.png | aesop's fables                                           |
