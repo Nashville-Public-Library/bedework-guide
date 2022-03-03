@@ -3,16 +3,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Website Guide',
-  tagline: 'How to add content to NPL websites. With links to development documentation.',
+  title: 'Bedework Guide',
+  tagline: 'How to add content to NPL Bedework. With links to development documentation.',
   url: 'https://nashville-public-library.github.io/',
-  baseUrl: '/website-guide/',
+  baseUrl: '/bedework-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://library.nashville.org/themes/custom/npl/logo.svg',
   organizationName: 'Nashville-Public-Library', // Usually your GitHub org/user name.
   trailingSlash: true, // Cook and Ellis added before deploying b/c instructions suggested it.
-  projectName: 'website-guide', // Usually your repo name.
+  projectName: 'bedework-guide', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Home',
@@ -25,7 +25,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'NPL Website',
+          label: 'Bedework Guide',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
