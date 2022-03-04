@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Adding Series Categories and Topical Areas
+# Add Topical Areas
 
 CAUTION. This function was made using these steps on Jan 25, 2021, resulting in the renaming of the series folder, which broke that limiter. These instructions remain accurate, but be very careful.
 1.	From calsuite-MainCampus, Main Menu, select ‘Manage Categories > Add Category’.

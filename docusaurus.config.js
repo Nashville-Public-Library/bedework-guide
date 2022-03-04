@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'bedework-guide', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Home',
+      title: 'Bedework Guide',
       logo: {
         alt: 'NPL Logo',
         src: 'https://library.nashville.org/themes/custom/npl/logo.svg',
@@ -25,8 +25,14 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Bedework Guide',
+          label: 'User Manual',
         },
+        // {
+        //  type: 'docSidebar',
+        //  position: 'left',
+        //  sidebarId: 'admin',
+        //  label: 'Administrator Functions',
+        // },
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://nashville-public-library.github.io/',
