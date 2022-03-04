@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Canceling / Rescheduling / Deleting Programs
+# Cancel or Reschedule
 
 There are few instances where we will actually delete a listing from the events calendar. In most cases, we mark events canceled instead of deleting them.
 
