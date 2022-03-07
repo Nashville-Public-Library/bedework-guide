@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Recurring Events
 
-## Step 1: Determine if your event is a recurring event
+## Is This Event Recurring?
 
 A recurring event is an event that repeats several times during a quarter at the same time of day. Often recurring events are regular (happen on the same day) but they can have irregular dates.
 
@@ -20,18 +20,19 @@ A recurring event is an event that repeats several times during a quarter at the
 -	Monthly Movie Matinee, times vary - No
     -	Event happens one time per month, but not on set schedule (repeats, no pattern). But, each movie event happens at a different time of day (NOT same time of day).
 
-## Step 2: Type the Recurrence Pattern (Required for all Recurring Events)
+## Add Recurrence Pattern (Required)
 ![img "recurrence pattern"](../../src/img/recurrence-pattern-field.jpg)
-1.	Consult the NPL Style Guide for examples on how to write recurrence pattern text.
-1.	Select “event recurs” to bring up the recurrence menu.
+1.	**Recurrence Pattern is required for all recurring events.**
+    - If you leave this field blank, we will not approve your event.
+1.	Consult the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for recurrence pattern examples.
+1.	Select `event recurs` to bring up the recurrence menu.
 1.	Type the recurrence pattern in the Recurrence Pattern field.
-    1.	Recurrence Pattern is required for all recurring events.
-    1.	If you leave this field blank, we will not approve your event.
 
-## Step 3: Set the Recurrence Pattern for the Calendar Listings (Two Options, Pick One)
+
+## Set the Recurrence Rules or Dates
 ![img "recurrence rules exceptions"](../../src/img/recurrence-rules-exceptions.jpg)
 
-Choose your recurrence method. There are two ways to add recurrences. Choose ONLY ONE OPTION. Do not use both.
+Choose your recurrence method. There are two ways to add recurrences. **Choose Only One Option**. Do not use both.
 1.	Option 1: Recurrence Rules: Add recurrence with a pattern, like “Every 1st Thursday” or “Every Saturday”.
     1.	Look in the “Recurrence Rules” section of the form.
     1.	Select the checkbox next to “show advanced recurrence rules”.
@@ -55,7 +56,7 @@ Choose your recurrence method. There are two ways to add recurrences. Choose ONL
     1.	Look at the Recurrence section of the form. Recurrence pattern will be transformed into natural-ish language.
     1.	Go back to the Approval Queue and scroll down to verify the recurrence has added all the correct dates.
 
-## Step 4: Delete Recurrences that Fall on Special Event Days
+## Delete All Duplicate Recurrences
 
 When it is time to create the back of book listings for Unbound, Web Services exports data from the calendar. All events entered as recurring events will be condensed into one listing. If you have a special themed story time, you must delete the instance from the recurring event, then re-add the special story time as a separate event.
 
@@ -65,7 +66,7 @@ For example, Miss Sue’s Story Time starts on December 1st and repeats 12 times
 1. Once in edit mode for that December 15th instance, Sue will click Delete Event.
 1. Now Sue will add a new event just for the December 15th Gnash story time.
 
-## Step 5: Add Details for Movie Series and Book Clubs
+## Add Details for Movie Series and Book Clubs
 
 ### In the master event
 -	Use a generic title and description
@@ -76,4 +77,4 @@ For example, Miss Sue’s Story Time starts on December 1st and repeats 12 times
 -	Add the cover image to each instance
 -	If the event series is a movie, edit each instance to add the movie description, rating, runtime, and year underneath the generic description.
 
-For details on how to type Master / Instance movie titles and descriptions, see the NPL Style Guide.
+For details on how to type Master / Instance movie titles and descriptions, see the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing).

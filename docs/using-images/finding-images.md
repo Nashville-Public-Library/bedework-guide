@@ -16,22 +16,7 @@ sidebar_position: 1
 -	[Nashville Public Library on Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
     - Upload image.
     - High-resolution event photos are saved to the library’s Flickr account.
-<!-- removing public domain images to match blog guidelines
-## Find Public Domain or Creative Commons Images
 
--	[Flickr Creative Commons](http://www.flickr.com/search/advanced/)
-    -	Upload image.
-    -	Go to Flickr Advanced Search and type search term(s)
-    -	At the bottom of the search form, check the Creative Commons box to limit to images you are free to use without copyright permissions.
--	[Openverse](https://wordpress.org/openverse/)
-    -	Upload image.
-    - Meta-search of multiple image sites from the Creative Commons project.
-    - All Openverse content is under a Creative Commons license or is in the public domain.
-- [Wikimedia Commons](http://commons.wikimedia.org)
-    - Upload image.
-    - Most content can be freely reused, but be sure to read the license information for each image or restrictions on reuse.
--	[Unsplash](https://unsplash.com)
--->
 ## Using Images From Other Websites
 
 - If you find an image you like on a non-library website, look for copyright info for images. Ask the site owner for permission to use their image.
