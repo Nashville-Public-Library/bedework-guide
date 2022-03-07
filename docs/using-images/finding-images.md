@@ -16,7 +16,7 @@ sidebar_position: 1
 -	[Nashville Public Library on Flickr](http://www.flickr.com/photos/nashvillepubliclibrary)
     - Upload image.
     - High-resolution event photos are saved to the library’s Flickr account.
-
+<!-- removing public domain images to match blog guidelines
 ## Find Public Domain or Creative Commons Images
 
 -	[Flickr Creative Commons](http://www.flickr.com/search/advanced/)
@@ -31,7 +31,7 @@ sidebar_position: 1
     - Upload image.
     - Most content can be freely reused, but be sure to read the license information for each image or restrictions on reuse.
 -	[Unsplash](https://unsplash.com)
-
+-->
 ## Using Images From Other Websites
 
 - If you find an image you like on a non-library website, look for copyright info for images. Ask the site owner for permission to use their image.
