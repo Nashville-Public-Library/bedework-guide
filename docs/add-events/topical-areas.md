@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Topical Areas
@@ -20,6 +20,7 @@ Topical areas allow users to find events with the calendar filters (on the left 
 ## Locations Checkboxes
 -	Select your location if the event is at your branch OR if the event is off-site, but sponsored by your branch.
 -	Do not select a location if your branch didn’t plan the event.
+- For online programs, add ‘Online’ tag. Also, add the branch/department location responsible for the event.
 -	List the off-site location at the top of the description:
   -	This event is at Bongo Java, Address, City, Zip.
 
@@ -96,6 +97,8 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
   -	Movies@Main (Main, Adults)
   -	Nashville Reads
       - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
+  - NPL Universe
+      - Add to any program occuring online, instead of in-person.
   - Read to Rise (Terri Thomas)
       - DO tag Read to Rise if you are doing a program/story time where you will give parents and caregivers time to read aloud to their child - even if it's just the last 5 minutes.
       - DO tag Read to Rise if you are having a special event where you are handing out prizes to children or celebrating their "graduation" from the program.
