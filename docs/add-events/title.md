@@ -8,7 +8,7 @@ sidebar_position: 1
 -	Do not use special characters (& ` ~ @) in titles.
 
 ## Naming Events
-Make your titles clear. Give names context: make it obvious what will happen at the event.
+Make your titles clear. Make it obvious what will happen at the event.
 
 **Add Context**
 - :white_check_mark: Art Group
