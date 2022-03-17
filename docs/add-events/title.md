@@ -9,57 +9,63 @@ sidebar_position: 1
 
 ## Naming Events
 Make your titles clear. Give names context: make it obvious what will happen at the event.
-- Add context to titles
-    - :white_check_mark: ‘Show Ways’ Quilts and Craft
-    - :x: Show Ways
-- Make sure event titles convey what will happen in the program.
-    - :white_check_mark: Make a Turkey Noisemaker
-    - :x: Turkey Noisemakers
-    - :white_check_mark: Celebrate Chinese New Year
-    - :x: Chinese New Year
-    - :white_check_mark: Crafts for Creators                                    
-    - :x: The Main Library Creators
-- Book Sale title should denote the branch where it is held.
-    - :white_check_mark: Hadley Park Book Sale
-    - :x: Fall Book Sale
-- Teen events with flexible/loosely defined activities
-    - :white_check_mark: Teen Time
-    - :x: Teen Space
-    - :x: Teen Lab
 
-## Abbreviations, Acronyms, Spelling
-- Avoid overuse of abbreviations and acronyms: If event title has a lot of acronyms, rewrite it.
-    - :white_check_mark: GED for English Language
-    - :x: GED for EL by TCAT
-- Avoid cutesy misspellings and grammatically incorrect titles, e.g.  "Kraft Korner," "Krayon Kids," "Game Daze".
+**Add Context**
+- :white_check_mark: Art Group
+- :x: Art Group: Watercolor Painting
 
-## Capital Letters
-- Do not write titles using all capital letters, e.g., use “Teen Time”, not “TEEN TIME”.
-- Do not use all capital letters for emphasis (e.g., “Come for FREE meditation sessions!” or “Teen Time TOO”). Reserve all capitals for acronym usage (e.g., STEAM, TOTAL).
+**Convey What Happens**
+- :white_check_mark: Make a Turkey Noisemaker
+- :x: Turkey Noisemakers
+
+**Book Sale Denotes Location**
+- :white_check_mark: Hadley Park Book Sale
+- :x: Fall Book Sale
+
+**Loosely-defined Activities**
+- :white_check_mark: Teen Time
+- :x: Teen Hangout
+- :x: Teen Mess Around
+
+**Avoid Acronyms**
+- :white_check_mark: GED for English Language
+- :white_check_mark: English Conversation Club
+- :x: GED for EL by TCAT
+
+**Cutesy misspellings**
+- :x: Kraft Korner
+- :x: Krayon Kids
+- :x: Game Daze
+
+**Capital Letters**
+- :white_check_mark: Mindfulness Meditation  
+- :x:Come for FREE meditation sessions!
 
 ## Children
-Please use these standard titles for all Story Times and children's series. Any other special programs that are not in the age ranges below keep the original names.
+Use these standard titles for all children's series. Any other special programs that are not in the age ranges below keep the original names.
 
-- Infants (0-1): _Wee Wigglers: Infant Story Time_
-- Babies (0-2): _Babies & Books_
-- Toddlers (1-3): _Toddler Tales_
-- Preschool (3-5): _Preschool Story Time_
-- Multi Age (0-5): _Family Story Time_
-- School Age (K-4): _Adventure Club_
-- STEAM programs: _Library Lab: A STEAM Program_
-- Music and Movement: _Music & Movement_
-- Evening/bedtime Storytime: _Starry Night Story Time_
-- Book Club: _Kid’s Book Club_
-- Family Lego: _Family LEGO Fun_
-- School Age Lego: _LEGO Club_
-- Craft programs: _Creation Station_
-- Homeschool: _Homeschool Friends_
-- Tween: just add “with Tweens” to the above
-- Wishing Chair Weekly Story Time: _Wishing Chair Productions Story Time_
+| Program (Age)                   	| Title                                  	|
+|---------------------------------	|----------------------------------------	|
+| Infants (0-1)                   	| _Wee Wigglers: Infant Story Time_      	|
+| Babies (0-2)                    	| _Babies & Books_                       	|
+| Toddlers (1-3)                  	| _Toddler Tales_                        	|
+| Preschool (3-5)                 	| _Preschool Story Time_                 	|
+| Multi Age (0-5)                 	| _Family Story Time_                    	|
+| School Age (K-4)                	| _Adventure Club_                       	|
+| STEAM programs                  	| _Library Lab: A STEAM Program_         	|
+| Music and Movement              	| _Music & Movement_                     	|
+| Evening/bedtime Storytime       	| _Starry Night Story Time_              	|
+| Book Club                       	| _Kid’s Book Club_                      	|
+| Family Lego                     	| _Family LEGO Fun_                      	|
+| School Age Lego                 	| _LEGO Club_                            	|
+| Craft programs                  	| _Creation Station_                     	|
+| Homeschool                      	| _Homeschool Friends_                   	|
+| Tween                           	| add “with Tweens” to above             	|
+| Wishing Chair Weekly Story Time 	| _Wishing Chair Productions Story Time_ 	|
 
 ## NPL Universe / Online
-- Add (Online) to the end of your title.
-> - Professor’s Story Time (Online)
+Add "(Online)" to the end of your title.
+> _Professor’s Story Time (Online)_
 
 ## Off-Site Events
 If an event is held off-site, denote it in the title. If you need to shorten an event title to add a location, then do so.
@@ -84,8 +90,7 @@ Story times with special performers do NOT include the story time title, to ensu
 - :x: Preschool Story Time: Nashville Ballet presents Ferdinand the Bull
 
 ## READing Paws
-Use this spelling and title for all READing Paws programs.
-- If you want to include a subtitle, include it after READing Paws (e.g., READing Paws: Read with Snickers).
+Use this capital spelling and title for all READing Paws programs.
 
 ## By Appointment Only
 Events should suggest that they are such in their titles.
@@ -94,6 +99,3 @@ Events should suggest that they are such in their titles.
 - :white_check_mark: Tech Help (By Appointment Only)
 - :white_check_mark: Tech Help (Appointment Required)
 - :x: Tech Help
-
-## Blood Drives
-For any Blood Drive event, use “American Red Cross Blood Drive”
