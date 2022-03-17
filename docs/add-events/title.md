@@ -69,9 +69,9 @@ Add "(Online)" to the end of your title.
 
 ## Off-Site Events
 If an event is held off-site, denote it in the title. If you need to shorten an event title to add a location, then do so.
-- _Crayon Kids at Bellevue Community Center_
-- _Books and Brews at Black Abbey Brewing Company_
-- _String City at Country Music Hall of Fame and Museum_
+- :white_check_mark: Crayon Kids at Bellevue Community Center
+- :white_check_mark: Books and Brews at Black Abbey Brewing Company
+- :white_check_mark: String City at Country Music Hall of Fame and Museum
 
 ## Titles for Theme Events
 If a story time (or other regularly recurring event) will have an “in-house” special theme (i.e., not an outside special guest or performer), e.g., for Artober or Father’s Day, always include the regular recurring event name. Append special theme name to regular event name, following a colon.

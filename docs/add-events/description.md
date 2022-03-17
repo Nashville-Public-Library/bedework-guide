@@ -42,28 +42,26 @@ Use good keywords. Name items to be discussed. All book sales should have the wo
 ### Main Library Childrens
 Make sure “no groups” language is included on MN story times and all MN children’s programs.
 
-> _Group accommodations are not available for this show time. Shows for groups are on Thursdays. Call (615) 862-5785 to ask about programs for groups of 10 or more._
+    Group accommodations are not available for this show time. Shows for groups are on Thursdays. Call (615) 862-5785 to ask about programs for groups of 10 or more.
 
 ### Main Library Teens
 Use “teens” language for all Teen events at Main Library
-> For teens in grades 7-12 at the end of all event descriptions.
+
+    For teens in grades 7-12 at the end of all event descriptions.
 
 ### Online (NPL Universe)
-- List all requirements for watching the show or participating in the discussion.
-    - Do not include passwords, only contacts.
-- May mention whether or not a live-streamed event will be archived for later viewing.
-- Put this language at the end of the event description:
+Put this language at the end of the event description
 
-> _Visit library.nashville.org/universe to see all NPL events you can stream from home._
+    Visit library.nashville.org/universe to see all NPL events you can stream from home.
 
 ### Seed Exchange
-- Append this Seed Exchange pitch to all gardening events.
+Append this Seed Exchange pitch to all gardening events.
 
-> _This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, see facebook.com/NashvillePublicLibrarySeedExchange or library.nashville.org/event/seed-exchange._
+    This program is brought to you by Nashville Public Library Seed Exchange. Borrow seeds, grow plants, return seeds. Seeds are available for check out at select branches. For more information, see facebook.com/NashvillePublicLibrarySeedExchange or library.nashville.org/event/seed-exchange.
 
 ## Common Errors
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
 - Don't include event times in the description field.  
 - Don't include the branch name in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in both Unbound and web events calendar contexts.
 - Do not use "Call for more information." If there is any more information about the event, include it.
--	Don’t use special characters (& ` ~ @) in titles.
+-	Don’t use special characters ``(& ` ~ @)`` in titles.

@@ -21,36 +21,27 @@ Topical areas allow users to find events with the calendar filters (on the left 
 -	Select your location if the event is at your branch OR if the event is off-site, but sponsored by your branch.
 -	Do not select a location if your branch didn’t plan the event.
 - For online programs, add ‘Online’ tag. Also, add the branch/department location responsible for the event.
--	List the off-site location at the top of the description:
-  -	This event is at Bongo Java, Address, City, Zip.
-
-> Books and Brews
-> Saturday, Sep 30
-> 11:00 AM
-> Join us for book discussions at Black Abbey Brewery, 2952 Sidco Dr, Nashville. Blah blah blah, description.`
 
 ## Browse by Topic
 Select the appropriate topic. If there is not a topic that is appropriate, you can email Web Services with suggestions. We add / edit topics periodically.
   -	Arts & Crafts
-      -	Applies to all programs where arts or crafts will be made. Can also tag STEAM or Studio as appropriate.
+      -	Applies to all programs where arts or crafts will be made.
   -	Computer Classes
       - DO use for:
         -	Adult learning classes involving computers--Microsoft Word, Excel, PowerPoint, etc.
         -	eBook demo/learning classes.
         -	Classes on using library databases and other resources.
       -	Do NOT use for:
-  -	Jobs Lab
-      -	Studio NPL Maker programs.
-      -	Gaming events like--Wii, XBox, etc.
-      -	Programs that involve some technology, but where technology is not the central point of the program.
+        -	Jobs Lab
+        -	Studio NPL Maker programs.
+        -	Gaming events like--Wii, XBox, etc.
+        -	Programs that involve some technology, but where technology is not the central point of the program.
   -	Music
       -	Use for concerts, performances, discussions about music, listening events, lectures on music topics, films with a musical focus  (e.g., Dreamgirls), and musical instructional programs.
       -	DO NOT use for Dance or theater programs unless they have a specific music component that is a focus of the program: “Nashville Ballet performs Stravinsky’s Firebird Suite”
   -	Story Time
       - Story Time only applies to traditional programs involving stories being read to children (infants, toddlers, preschool) accompanied by their parents. Does not include school-age learning, crafting or literature programs.
   - Studio and STEAM - Only use one or the other. Do not tag an event with both tags.
-      -	If event is tagged Studio, do not tag STEAM. It is implied that it is STEAM.
-      -	If event is tagged STEAM, do not tag Studio.
 
 ##	Browse by Series
 - Choose the series. Tags are used to create curated lists of events--for both internal and external use--so it should be obvious why any given event comes up when you select one of the series tags.
@@ -94,7 +85,6 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
       - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
   -	Hunger Awareness
       -	Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
-  -	Movies@Main (Main, Adults)
   -	Nashville Reads
       - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
   - NPL Universe
@@ -130,5 +120,4 @@ Select the appropriate topic. If there is not a topic that is appropriate, you c
       -	DO NOT tag an event “Summer Challenge” if its title is “Preschool Story Time” and its description is “Join us for stories, songs, and crafts!”
 -	Wishing Chair Productions
     -	Use for Wishing Chair’s Friday and Saturday shows (marionettes or not)
-    -	Use for any Puppet Truck show (marionettes or not). Include the name “Puppet Truck” at the beginning of the event title (for search). E.g., “Puppet Truck presents Anansi the Spider”.
-    -	DO NOT use for Main Library Story Time.
+    -	Use for any Puppet Truck show (marionettes or not). Include the name “Puppet Truck” at the beginning of the event title (for search). E.g., “Puppet Truck presents Anansi the Spider”
