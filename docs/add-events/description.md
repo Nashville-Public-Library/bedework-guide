@@ -63,5 +63,5 @@ Append this Seed Exchange pitch to all gardening events.
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
 - Don't include event times in the description field.  
 - Don't include the branch name in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in both Unbound and web events calendar contexts.
-- Do not use "Call for more information." If there is any more information about the event, include it.
--	Don’t use special characters ``(& ` ~ @)`` in titles.
+- Don't use "Call for more information." If there is any more information about the event, include it.
+-	Don’t use special characters in titles. ``(& ` ~ @)``
