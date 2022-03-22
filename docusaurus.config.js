@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Bedework Guide',
   tagline: 'How to add content to NPL Bedework. With links to development documentation.',
-  url: 'https://github.com/',
-  baseUrl: '/bedework-guide/docs/intro/',
+  url: 'https://nashville-public-library.github.io/',
+  baseUrl: '/bedework-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://library.nashville.org/themes/custom/npl/logo.svg',
