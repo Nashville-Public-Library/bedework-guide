@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Bedework Guide',
   tagline: 'How to add content to NPL Bedework. With links to development documentation.',
-  url: 'https://nashville-public-library.github.io/',
+  url: 'https://github.com/',
   baseUrl: '/bedework-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -13,6 +13,7 @@ module.exports = {
   organizationName: 'Nashville-Public-Library', // Usually your GitHub org/user name.
   trailingSlash: true, // Cook and Ellis added before deploying b/c instructions suggested it.
   projectName: 'bedework-guide', // Usually your repo name.
+  deploymentBranch: "gh-pages",
   themeConfig: {
     navbar: {
       title: 'Bedework Guide',
