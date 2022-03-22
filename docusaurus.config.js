@@ -6,7 +6,7 @@ module.exports = {
   title: 'Bedework Guide',
   tagline: 'How to add content to NPL Bedework. With links to development documentation.',
   url: 'https://github.com/',
-  baseUrl: '/bedework-guide/',
+  baseUrl: '/bedework-guide/docs/intro/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://library.nashville.org/themes/custom/npl/logo.svg',
