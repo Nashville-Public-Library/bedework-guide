@@ -20,7 +20,6 @@ sidebar_position: 3
 - When exported to _Unbound_ event listings, text from the Recurrence Pattern field will display on the second line, after the event title.
 
 **Recurrence Pattern is required for all repeating events.** If you leave this field blank, we will not approve your event.
-1.	Consult the [NPL Style Guide](https://docs.google.com/document/d/1GEg7vq-WWuBhZaVDM39cERYrDljqLXI5CUQngT1d694/edit?usp=sharing) for recurrence pattern examples.
 1.	Select `event recurs` to bring up the recurrence menu.
 1.	Type the recurrence pattern in the Recurrence Pattern field.
 
