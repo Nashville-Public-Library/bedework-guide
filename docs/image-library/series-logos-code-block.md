@@ -5,13 +5,14 @@ sidebar_position: 4
 
 # Series Logos
 
-## archives
-`/public/images/first-tuesday-archives-logo-400-201612291108.png`
+## Metro Archives
 
-`public/images/first-tuesday-archives-logo-400-201612291108-thumb.png`
-
-`Metro Archives`
-
+```
+/public/images/first-tuesday-archives-logo-400-201612291108.png
+```
+```
+public/images/first-tuesday-archives-logo-400-201612291108-thumb.png
+```
 
 
 |                                         |Image URL                                                                                 |Thumbnail URL                                                                             |Alt Text                                   |
