@@ -5,25 +5,51 @@ sidebar_position: 4
 
 # Series Logos
 
-## Metro Archives
+## Archives
 
 ```
 /public/images/first-tuesday-archives-logo-400-201612291108.png
 ```
 ```
-public/images/first-tuesday-archives-logo-400-201612291108-thumb.png
+/public/images/first-tuesday-archives-logo-400-201612291108-thumb.png
 ```
 
+## Banned Books Week
 
-|                                         |Image URL                                                                                 |Thumbnail URL                                                                             |Alt Text                                   |
-|-----------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------|
-|Archives                                       |/public/images/first-tuesday-archives-logo-400-201612291108.png                           |/public/images/first-tuesday-archives-logo-400-201612291108-thumb.png                     |Metro Archives                             |
-|Banned Books Week                              |/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg                               |/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png                         |banned books week                          |
-|Be Well at NPL                                 |/public/images/bedework-be-well-1-201708171105.jpg                                        |/public/images/bedework-be-well-1-201708171105-thumb.png                                  |be well at npl                             |
-|Book Clubs                                     |/public/images/join-us-for-book-club-202012180324.jpg                                     |/public/images/join-us-for-book-club-202012180426-thumb.png                               |join us for book club                      |
-|Book Sales                                     |/public/images/book-sale-calendar-page-image_blue-text_updated-201806190149.jpg           |/public/images/book-sale-calendar-icon_blue-text-201806191138.jpg                         |Book Sale                                  |
-|Bringing Books to Life                         |/public/images/bbtl-logo-202010121118.jpg                                                 |/public/images/bbtl-logo-202010121118-thumb.png                                           |bringing books to life                     |
-|Computers and Technology                       |/public/images/pop-event-icon-computer-tech-2_0.png                                       |/public/images/pop-event-icon-computer-tech-2_0-thumb.png                                 |Computers                                  |
+```
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
+```
+```
+/public/images/NPL_BannedBooksWeek_450 (1)-201908211026-thumb.png
+```
+## Be Well at NPL
+```
+/public/images/bedework-be-well-1-201708171105.jpg  
+```
+```
+/public/images/bedework-be-well-1-201708171105-thumb.png
+```
+## Book Clubs
+```
+/public/images/join-us-for-book-club-202012180324.jpg
+```
+```
+/public/images/join-us-for-book-club-202012180426-thumb.png
+```
+## Book Sales    
+```
+/public/images/book-sale-calendar-page-image_blue-text_updated-201806190149.jpg
+```           
+```
+/public/images/book-sale-calendar-icon_blue-text-201806191138.jpg
+```                         
+## Bringing Books to Life
+```
+/public/images/bbtl-logo-202010121118.jpg
+```
+/public/images/bbtl-logo-202010121118-thumb.png
+```
+## Computers and Technology                       |/public/images/pop-event-icon-computer-tech-2_0.png                                       |/public/images/pop-event-icon-computer-tech-2_0-thumb.png                                 |Computers                                  |
 |Fandom Fest 2020                               |/public/images/FandomFest2020-202002121017.jpg                                            |/public/images/FandomFest2020-202002121017-thumb.png                                      |npl fandom fest 2020                       |
 |Film for Thought                               |/public/images/film-for-thought-logo-201610241254.png                                     |/public/images/film-for-thought-logo-201610241254-thumb.png                               |Film for Thought                           |
 |Financial Literacy                             |/public/images/financial-literacy-201607080422.jpg                                        |/public/images/financial-literacy-201607080422-thumb.png                                  |financial literacy                         |
