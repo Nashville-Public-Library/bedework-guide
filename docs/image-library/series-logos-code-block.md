@@ -49,8 +49,20 @@ sidebar_position: 4
 ```
 /public/images/bbtl-logo-202010121118-thumb.png
 ```
-## Computers and Technology                       |/public/images/pop-event-icon-computer-tech-2_0.png                                       |/public/images/pop-event-icon-computer-tech-2_0-thumb.png                                 |Computers                                  |
-|Fandom Fest 2020                               |/public/images/FandomFest2020-202002121017.jpg                                            |/public/images/FandomFest2020-202002121017-thumb.png                                      |npl fandom fest 2020                       |
+## Computers and Technology
+```
+/public/images/pop-event-icon-computer-tech-2_0.png
+```
+```
+/public/images/pop-event-icon-computer-tech-2_0-thumb.png
+```
+## Fandom Fest 2020
+```
+/public/images/FandomFest2020-202002121017.jpg
+```
+```
+/public/images/FandomFest2020-202002121017-thumb.png
+```
 |Film for Thought                               |/public/images/film-for-thought-logo-201610241254.png                                     |/public/images/film-for-thought-logo-201610241254-thumb.png                               |Film for Thought                           |
 |Financial Literacy                             |/public/images/financial-literacy-201607080422.jpg                                        |/public/images/financial-literacy-201607080422-thumb.png                                  |financial literacy                         |
 |First Fridays at the Archives                  |/public/images/first-tuesday-archives-logo-400-201612291108.png                           |/public/images/first-tuesday-archives-logo-400-201612291108-thumb.png                     |First Tuesdays at the Metro Archives       |
