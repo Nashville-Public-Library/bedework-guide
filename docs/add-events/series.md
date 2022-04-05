@@ -8,28 +8,34 @@ sidebar_position: 13
 - Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
 - _Unbound_ will display the info from the master listing (generic description with list of book titles).
 - Bedework will display the info added to each instance (specific title for the event date,).
-- Master Listing Template: In the master event, use a generic title and description. List the book titles for the upcoming months in the description for all instances.
+
+
+**Master Listing Template**
+
 > - Title: Book Club Name
   - Description: Brief description of the theme of the club.
   - MMM DD: Book Title, by Author Name
   - MMM DD: Book Title, by Author Name
   - MMM DD: Book Title, by Author Name
 
-- Master Listing Example:
+**Master Listing Example**
+
 > - Title: Killer Thrillers Book Club
 > - Description: Join us for Killer Thrillers, a book club devoted to reading mysteries and thrillers, both classic and contemporary.   
     - Jun 13: Bluebird, Bluebird, by Attica Locke
     - Jul 11: Everything You Want Me to Be, by Mindy Mejia
     - Aug 8: Celine, by Peter Heller
 
-- Instance Listings Template (update title for each):
+**Instance Listings Template (update title for each)**
+
 > - Title: Book Club Name: Book Title, by Author
 > - Description: Brief description of the theme of the club.
 >   - MMM DD: Book Title, by Author Name
   - MMM DD: Book Title, by Author Name
   - MMM DD: Book Title, by Author Name
 
-- Instance Examples
+**Instance Examples**
+
 > - Title for Jun 13: Killer Thrillers Book Club: Bluebird, Bluebird, by Attica Locke
 >   - Description: Join us for Killer Thrillers, a book club devoted to reading mysteries and thrillers, both classic and contemporary.   
       - Jun 13: Bluebird, Bluebird, by Attica Locke
@@ -118,10 +124,13 @@ Lassie Come Home (1943)
 - Early Voting is for contiguous days for pretty much all the hours we are open.
 - Add one Early Voting entry per day.
 - List all dates/times/locations in the description.
-- Use “Multiple” for Primary Address.
-- Use Election Commission for Contact.
+- Use +Multiple_ for Primary Address.
+- Use _Election Commission_ for Contact.
 - Check mark all locations where voting is happening in the Locations Topical Area.
-- Early Voting Event Listing Example
+- Add link to the Election Commission's list of all Early Voting sites in the city in _Event URL_ field.
+- Add [Voting images](/docs/image-library/series-logos-code-block/#) to entries.
+
+**Early Voting Event Listing Example**
 > - Title: Early Voting at the Library
 > - Description: Early voting is available at Bellevue, Bordeaux, Edmondson Pike, Green Hills, Hermitage, and Madison Branch Libraries, and Southeast Community Center (adjacent to Southeast Branch).
     - Wed, Oct 19, 8am – 4:30pm
