@@ -8,7 +8,11 @@ sidebar_position: 13
 - Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
 - _Unbound_ will display the info from the master listing (generic description with list of book titles).
 - Bedework will display the info added to each instance (specific title for the event date,).
-- Master Listing Template: In the master event, use a generic title and description. List the book titles for the upcoming months in the description for all instances.
+- Add [Book Club logo image](/docs/image-library/series-logos-code-block/#) to entries.
+
+
+**Master Listing Template**
+
 > - Title: Book Club Name
   - Description: Brief description of the theme of the club.
   - MMM DD: Book Title, by Author Name
@@ -118,10 +122,13 @@ Lassie Come Home (1943)
 - Early Voting is for contiguous days for pretty much all the hours we are open.
 - Add one Early Voting entry per day.
 - List all dates/times/locations in the description.
-- Use “Multiple” for Primary Address.
-- Use Election Commission for Contact.
+- Use +Multiple_ for Primary Address.
+- Use _Election Commission_ for Contact.
 - Check mark all locations where voting is happening in the Locations Topical Area.
-- Early Voting Event Listing Example
+- Add link to the Election Commission's list of all Early Voting sites in the city in _Event URL_ field.
+- Add [Voting images](/docs/image-library/series-logos-code-block/#) to entries.
+
+**Early Voting Event Listing Example**
 > - Title: Early Voting at the Library
 > - Description: Early voting is available at Bellevue, Bordeaux, Edmondson Pike, Green Hills, Hermitage, and Madison Branch Libraries, and Southeast Community Center (adjacent to Southeast Branch).
     - Wed, Oct 19, 8am – 4:30pm
