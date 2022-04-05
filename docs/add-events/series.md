@@ -8,6 +8,7 @@ sidebar_position: 13
 - Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
 - _Unbound_ will display the info from the master listing (generic description with list of book titles).
 - Bedework will display the info added to each instance (specific title for the event date,).
+- Add [Book Club logo image](/docs/image-library/series-logos-code-block/#) to entries.
 
 
 **Master Listing Template**
