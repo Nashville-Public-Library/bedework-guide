@@ -13,7 +13,6 @@ module.exports = {
   organizationName: 'Nashville-Public-Library', // Usually your GitHub org/user name.
   trailingSlash: true, // Cook and Ellis added before deploying b/c instructions suggested it.
   projectName: 'bedework-guide', // Usually your repo name.
-  deploymentBranch: "gh-pages",
   themeConfig: {
     navbar: {
       title: 'Bedework Guide',
