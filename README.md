@@ -1,4 +1,4 @@
-# Bedework Guide 
+# Bedework Guide
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -120,3 +120,9 @@ nvm use 14.4.0
    `git clone https://github.com/Nashville-Public-Library/bedework-guide.git bedework-guide`
    1. See if clone fixed the issue:  
    `npm run start`
+
+## License
+
+Built with Docusaurus, [MIT licensed](/LICENSE.txt).
+
+Bedework Guide documentation (e.g., `.md` files in the `/docs` folder) by Nashville Public Library [Creative Commons licensed](/LICENSE-docs).
