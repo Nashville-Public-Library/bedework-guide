@@ -125,4 +125,4 @@ nvm use 14.4.0
 
 Built with Docusaurus, [MIT licensed](/LICENSE.txt).
 
-Bedework Guide documentation (e.g., `.md` files in the `/docs` folder) by Nashville Public Library [Creative Commons licensed](/LICENSE-docs).
+Bedework Guide documentation (e.g., `.md` files in the `/docs` folder) by Nashville Public Library, [Creative Commons licensed](/LICENCE-docs.txt).
