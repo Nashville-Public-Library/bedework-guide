@@ -121,10 +121,10 @@ Choose the series. Tags are used to create curated lists of events--for both int
       -	Craft programs like button-making, watercolor painting, and Origami workshops.
       - Game-playing programs like Wii tournament, Gaming Monday, and Magic Cards.
 -	Summer Challenge
-  - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
-  -	DO tag an event “Summer Challenge” if its title is “Preschool Story Time: Reading Challenge,” and its description indicates that kids will read and log points for the challenge.
-  -	DO NOT tag an event “Summer Challenge” if its title is “Preschool Story Time” and its description is “Join us for stories, songs, and crafts!”
+    - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
+    -	DO tag an event “Summer Challenge” if its title is “Preschool Story Time: Reading Challenge,” and its description indicates that kids will read and log points for the challenge.
+    -	DO NOT tag an event “Summer Challenge” if its title is “Preschool Story Time” and its description is “Join us for stories, songs, and crafts!”
 -	Wishing Chair Productions
-  -	Use for Wishing Chair’s Friday and Saturday shows (marionettes or not).
-  -	Use for any Puppet Truck show (marionettes or not). Include the name “Puppet Truck” at the beginning of the event title (for search). E.g., “Puppet Truck presents Anansi the Spider”
-  - Use for any event featuring Wishing Chair Productions performers, including Story Time.
+    -	Use for Wishing Chair’s Friday and Saturday shows (marionettes or not).
+    -	Use for any Puppet Truck show (marionettes or not). Include the name “Puppet Truck” at the beginning of the event title (for search). E.g., “Puppet Truck presents Anansi the Spider”
+    - Use for any event featuring Wishing Chair Productions performers, including Story Time.
