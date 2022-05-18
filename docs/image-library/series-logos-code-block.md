@@ -5,13 +5,6 @@ sidebar_position: 1
 
 # Series Logos
 
-## Archives
-```
-/public/images/first-tuesday-archives-logo-400-201612291108.png
-```
-```
-/public/images/first-tuesday-archives-logo-400-201612291108-thumb.png
-```
 ## Banned Books Week
 ```
 /public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
@@ -34,7 +27,6 @@ sidebar_position: 1
 /public/images/join-us-for-book-club-202012180426-thumb.png
 ```
 ## Book Sales   
-
 ```
 /public/images/book-sale-calendar-page-image_blue-text_updated-201806190149.jpg
 ```           
@@ -55,13 +47,6 @@ sidebar_position: 1
 ```
 /public/images/pop-event-icon-computer-tech-2_0-thumb.png
 ```
-## Fandom Fest 2020
-```
-/public/images/FandomFest2020-202002121017.jpg
-```
-```
-/public/images/FandomFest2020-202002121017-thumb.png
-```
 ## Film for Thought
 ```
 /public/images/film-for-thought-logo-201610241254.png
@@ -74,15 +59,8 @@ sidebar_position: 1
 /public/images/financial-literacy-201607080422.jpg
 ```           
 ```
-/public/images/financial-literacy-201607080422-thumb.png```           
+/public/images/financial-literacy-201607080422-thumb.png         
 ```
-## First Tuesdays at the Archives
-```           
-/public/images/first-tuesday-archives-logo-400-201612291108.png
-```           
-```
-/public/images/first-tuesday-archives-logo-400-201612291108-thumb.png
-```           
 ## Friends of Nashville Public Library
 ```
 /public/images/friends_bedework_white-201901110253.jpg
@@ -125,6 +103,13 @@ sidebar_position: 1
 ```
 /public/images/LEGO_Design2020(Square450)-201912171047-thumb.png
 ```
+## Lunch Sack
+```
+/public/images/Summer-Lunch-at-NPL-201805240219.jpg
+```
+```
+/public/images/sack2-202112290338-thumb.png
+```
 ## Mental Health Cooperative Outreach
 ```
 /public/images/mentalHealthCooperative_logo-201907300123.jpg
@@ -132,6 +117,13 @@ sidebar_position: 1
 ```
 /public/images/logo_mentalHealthCooperative-thumb.png           
 ```                                     
+## Metro Archives
+```
+/public/images/metro-archive-thumb-202205181048.png
+```
+```
+/public/images/metro-archive-thumb-202205181048-thumb.png
+```
 ## Metro Homelessness Commission
 ```           
 /public/images/logo_mentalHealthCooperative-thumb.png
@@ -158,7 +150,7 @@ sidebar_position: 1
 /public/images/NaNoWriMot-201610041148.png
 ```           
 ```
-/public/images/NaNoWriMo_thumb-201610041148.pn
+/public/images/NaNoWriMo_thumb-201610041148.png
 ```
 ## Nashville Reads
 ```
@@ -223,7 +215,6 @@ sidebar_position: 1
 ```
 /public/images/seed-exchange-bedework-201902201102-thumb.png
 ```
-
 ## Shakespeare Allowed
 ```
 /public/images/shakespeare-allowed_300px.png
