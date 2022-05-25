@@ -59,6 +59,13 @@ sidebar_position: 2
 ```
 /public/images/bellemeadeplantation-201912190516-thumb.png
 ```
+## Beizar Aradini          
+```
+/public/images/BeizarAradini_resized-202102230356.jpg
+```
+```
+/public/images/BeizarAradini_resized-202102230356-thumb.png
+```                           
 ## Ben Satterlee           
 ```
 /public/images/bensatterlee1_resized-201912190541.jpg
@@ -115,10 +122,13 @@ sidebar_position: 2
 ```
 /public/images/resized_FAIRY front-202003240703-thumb.png
 ```      
-## Friday Family Time                                
+## Friday Family Time               
+```
+/public/images/NPL_FridayFamilyTime_Web(Square)BEDEWORK-202007020150.png
+```
 ```
 /public/images/NPL_FridayFamilyTime_Web(Square)BEDEWORK-202007020150-thumb.png
-```
+```         
 ## Farmer Jason            
 ```
 /public/images/resized_farmerjason2-202003240721.jpg
@@ -166,6 +176,13 @@ sidebar_position: 2
 ```            
 ```
 /public/images/gardenhose-201909051052-thumb.png
+```
+## Imagination Library
+```
+/public/images/Imgaination Library Small-201810100124.jpg   
+```           
+```
+/public/images/Imgaination Library Small-201810100124-thumb.png
 ```
 ## Jacob Johnson           
 ```
@@ -223,6 +240,13 @@ sidebar_position: 2
 ```
 /public/images/NashvilleOperaLogo.jpg-202105260704-thumb.png
 ```
+## Nashville Reads
+```
+/public/images/logo_cropped.jpg
+```           
+```
+/public/images/nashville_reads_thumb-201609291225.jpg
+```
 ## Nashville Zoo           
 ```
 /public/images/resized_NASHVILLEZOO-202003260414.jpg
@@ -272,6 +296,20 @@ sidebar_position: 2
 ```
 /public/images/resized_Rodney Kelley-202003260615-thumb.png
 ```                       
+## The Porch Writers' Collective (old)               
+```
+/public/images/ThePorchWritersCollective_Bedework-201903220306.png
+```              
+```
+/public/images/ThePorchWritersCollective_Bedework-201903220306-thumb.png
+```               
+## The Porch Writers' Collective (new)              
+```
+/public/images/the porch_new logo resized-202101260507.jpg
+```                      
+```
+/public/images/the porch_new logo resized-202101260507-thumb.png
+```                                    
 ## San Rafael Band         
 ```
 /public/images/HHM - San Rafael promo picture - bedework-202009140633.jpg
@@ -286,13 +324,6 @@ sidebar_position: 2
 ```
 /public/images/ScottTripp_TheBalloonGuy-2-201810110355-thumb.png
 ```                              
-## Small World Yoga        
-```
-/public/images/small world yoga logo-202105260654.png
-```
-```
-/public/images/small world yoga logo-202105260654-thumb.png
-```                             
 ## Sock Rocerz             
 ```
 /public/images/SockRockerz_forBedework-201903280323.jpg
@@ -314,20 +345,6 @@ sidebar_position: 2
  ```
  /public/images/TLC_Stacked_Logo_resized-201912201257-thumb.png
  ```                         
-## The Porch Writers' Collective (old)               
-```
-/public/images/ThePorchWritersCollective_Bedework-201903220306.png
-```              
-```
-/public/images/ThePorchWritersCollective_Bedework-201903220306-thumb.png
-```               
-## The Porch Writers' Collective (new)              
-```
-/public/images/the porch_new logo resized-202101260507.jpg
-```                      
-```
-/public/images/the porch_new logo resized-202101260507-thumb.png
-```                                    
 ## Theo Wellington         
 ```
 /public/images/theowellington-202003271217.jpg
@@ -349,20 +366,6 @@ sidebar_position: 2
 ```
 /public/images/TGCR_Logo_FINAL-201909301233-thumb.png
 ```
-## NPL Universe            
-```
-/public/images/NPL_U_Bedework_detail-202004270955.jpg
-```
-```
-/public/images/NPL_U_Bedework_thumb-202004270948.png
-```                                      
-## Friday Family Time               
-```
-/public/images/NPL_FridayFamilyTime_Web(Square)BEDEWORK-202007020150.png
-```
-```
-/public/images/NPL_FridayFamilyTime_Web(Square)BEDEWORK-202007020150-thumb.png
-```         
 ## Live. Laugh. Learn. with Ms. Natalie              
 ```
 /public/images/Live Laugh Learn_bedework-202005281232.jpg
@@ -391,10 +394,3 @@ sidebar_position: 2
 ```
 /public/images/Art Time With Jake_resized-202102230351-thumb.png
 ```                            
-## Beizar Aradini          
-```
-/public/images/BeizarAradini_resized-202102230356.jpg
-```
-```
-/public/images/BeizarAradini_resized-202102230356-thumb.png
-```                           

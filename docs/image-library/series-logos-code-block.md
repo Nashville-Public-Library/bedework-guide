@@ -47,13 +47,6 @@ sidebar_position: 1
 ```
 /public/images/pop-event-icon-computer-tech-2_0-thumb.png
 ```
-## Film for Thought
-```
-/public/images/film-for-thought-logo-201610241254.png
-```           
-```
-/public/images/film-for-thought-logo-201610241254-thumb.png
-```
 ## Financial Literacy
 ```           
 /public/images/financial-literacy-201607080422.jpg
@@ -74,13 +67,6 @@ sidebar_position: 1
 ```           
 ```
 /public/images/MNHomeschoolFriends450-202108231240-thumb.png
-```
-## Imagination Library
-```
-/public/images/Imgaination Library Small-201810100124.jpg   
-```           
-```
-/public/images/Imgaination Library Small-201810100124-thumb.png
 ```
 ## Jobs Lab
 ```
@@ -152,13 +138,6 @@ sidebar_position: 1
 ```
 /public/images/NaNoWriMo_thumb-201610041148.png
 ```
-## Nashville Reads
-```
-/public/images/logo_cropped.jpg
-```           
-```
-/public/images/nashville_reads_thumb-201609291225.jpg
-```
 ## NPL Universe
 ```
 /public/images/NPL_U_Bedework_detail-202004270955.jpg
@@ -222,26 +201,19 @@ sidebar_position: 1
 ```
 /public/images/shakespeare-allowed_80px.png
 ```
+## Small World Yoga        
+```
+/public/images/small world yoga logo-202105260654.png
+```
+```
+/public/images/small world yoga logo-202105260654-thumb.png
+```                             
 ## Story Time Icon
 ```
 /public/images/story-time-large.png
 ```
 ```
 /public/images/story-time-large-thumb.png
-```
-## Signing Story Time
-```
-/public/images/signing-story-time-icon-201612080932.png      
-```
-```
-/public/images/signing-story-time-icon-201612080932-thumb.png
-```
-## Cuenta Cuentos (Story Time)
-```
-/public/images/spanish-story-time-icon-2-201612081158.png    
-```
-```
-/public/images/spanish-story-time-icon-2-201612081158-thumb.png
 ```
 ## Bi-Lingual Story Time (Spanish and English)
 ```
