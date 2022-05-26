@@ -82,13 +82,6 @@ sidebar_position: 1
 ```
 /public/images/JobLab_bedework-201902200238-thumb.png
 ```
-## Juneteenth
-```
-/public/images/npl_juneteenth-202205260156.jpg
-```
-```
-/public/images/npl_juneteenth-202205260156-thumb.png
-```
 ## Kids Movie Matinee
 ```
 /public/images/kids-movie-matinee-201802270328.png
