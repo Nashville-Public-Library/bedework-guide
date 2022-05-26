@@ -19,6 +19,13 @@ sidebar_position: 1
 ```
 /public/images/bedework-be-well-1-201708171105-thumb.png
 ```
+## Bi-Lingual Story Time (Spanish and English)
+```
+/public/images/bi-lingual-story-time-201612120353.png        
+```
+```
+/public/images/bi-lingual-story-time-201612120353-thumb.png
+```
 ## Book Clubs
 ```
 /public/images/join-us-for-book-club-202012180324.jpg
@@ -74,6 +81,13 @@ sidebar_position: 1
 ```           
 ```
 /public/images/JobLab_bedework-201902200238-thumb.png
+```
+## Juneteenth
+```
+/public/images/npl_juneteenth-202205260156.jpg
+```
+```
+/public/images/npl_juneteenth-202205260156-thumb.png
 ```
 ## Kids Movie Matinee
 ```
@@ -180,14 +194,14 @@ sidebar_position: 1
 ```
 /public/images/puppet-show-black-80.png
 ```
-## Read to Rise Logo
+## Read to Rise
 ```
 /public/images/read-to-rise-bedework-201808141129.jpg
 ```           
 ```
 /public/images/read-to-rise-bedework-201808141129-thumb.png
 ```
-## Seed Exchange Logo
+## Seed Exchange
 ```
 /public/images/seed-exchange-bedework-201902201102.png
 ```
@@ -208,19 +222,12 @@ sidebar_position: 1
 ```
 /public/images/small world yoga logo-202105260654-thumb.png
 ```                             
-## Story Time Icon
+## Story Time
 ```
 /public/images/story-time-large.png
 ```
 ```
 /public/images/story-time-large-thumb.png
-```
-## Bi-Lingual Story Time (Spanish and English)
-```
-/public/images/bi-lingual-story-time-201612120353.png        
-```
-```
-/public/images/bi-lingual-story-time-201612120353-thumb.png
 ```
 ## Studio NPL        
 ```
