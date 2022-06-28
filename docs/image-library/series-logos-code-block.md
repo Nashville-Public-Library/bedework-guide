@@ -98,7 +98,7 @@ sidebar_position: 1
 ```
 ## Lunch Sack
 ```
-/public/images/Summer-Lunch-at-NPL-201805240219.jpg
+/public/images/sack2-202112290338.jpg
 ```
 ```
 /public/images/sack2-202112290338-thumb.png
@@ -116,13 +116,6 @@ sidebar_position: 1
 ```
 ```
 /public/images/metro-archive-thumb-202205181048-thumb.png
-```
-## Metro Homelessness Commission
-```           
-/public/images/logo_mentalHealthCooperative-thumb.png
-```           
-```
-/public/images/logo_mentalHealthCooperative-thumb.png
 ```
 ## Metro Nashville Government Seal
 ```
@@ -166,13 +159,6 @@ sidebar_position: 1
 ```
 /public/images/getcovered-201608310254.png
 ```           
-## Operation Stand Down
-```                          
-/public/images/OperationStandDownTN_transbkgrd_400-201806230400.png
-```           
-```
-/public/images/OperationStandDownTN_transbkgrd_400-201806230400-thumb.png
-```
 ## Panel Discussion
 ```
 /public/images/MN_PanelDiscussionComicsBookClub-201803260551.jpg
