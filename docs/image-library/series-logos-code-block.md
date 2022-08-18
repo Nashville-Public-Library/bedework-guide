@@ -173,6 +173,13 @@ sidebar_position: 1
 ```
 /public/images/puppet-show-black-80.png
 ```
+## Pride Logo
+```
+/public/images/npl-pride-logo-202208180942.jpg
+```
+```
+/public/images/npl-pride-logo-202208180942-thumb.png
+```
 ## Read to Rise
 ```
 /public/images/read-to-rise-bedework-201808141129.jpg
@@ -263,13 +270,6 @@ sidebar_position: 1
 ```          
 ```
 /public/images/bedework-vote-large-201609291049.png
-```
-## Women's National Book Association              
-```
-/public/images/download%20(8)-201712110736-thumb-201801040956.png
-```
-```
-/public/images/download%20(8)-201712110736-thumb-201801040956-thumb.png
 ```
 ## Zumba
 ```
