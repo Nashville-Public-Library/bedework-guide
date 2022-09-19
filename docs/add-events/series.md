@@ -6,8 +6,7 @@ sidebar_position: 13
 
 ## Book Clubs
 - Enter book clubs as recurring events (master event). Then add additional info to each instance of the master.
-- _Unbound_ will display the info from the master listing (generic description with list of book titles).
-- Bedework will display the info added to each instance (specific title for the event date,).
+- Bedework displays the info added to each instance (specific title for the event date,).
 - Add [Book Club logo image](/docs/image-library/series-logos-code-block/#) to entries.
 
 
@@ -44,8 +43,7 @@ sidebar_position: 13
 
 ## Movie Series
 Add movies as recurring events if you have a movie series that happens repeatedly, like Coffee and Classic Movies. Add as individual Bedework entries if the movie is a one-off event (not a recurring series).
-- _Unbound_ will display the info from the master listing (for recurring event) and will list a generic description.
-- Events Calendar will display the info added to each instance (specific title for the event date, movie poster image).
+- Events Calendar displays the info added to each instance (specific title for the event date, movie poster image).
 
 - In the master event
     -	Use a generic title and description
@@ -143,7 +141,7 @@ Lassie Come Home (1943)
     - Sat, Oct 29, 8am – 4:30pm
 
 ## LEGO
-- LEGO programs are always listed as “ages 4 and up” on signage and in Unbound. Make sure LEGO listings have age in the description.
+- LEGO programs are always listed as “ages 4 and up” on signage. Make sure LEGO listings have age in the description.
 - Use LEGO, LEGO blocks, LEGO bricks, or LEGO pieces.
 - Do not use: LEGOs, legos.
 

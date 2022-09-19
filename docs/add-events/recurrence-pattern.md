@@ -17,7 +17,6 @@ sidebar_position: 3
 ## Add Recurrence Pattern (Required)
 ![img "recurrence pattern"](../../src/img/recurrence-pattern-field.jpg)
 - When viewed in the events calendar, the text from the Recurrence Pattern field will display as the first sentence in your description.
-- When exported to _Unbound_ event listings, text from the Recurrence Pattern field will display on the second line, after the event title.
 
 **Recurrence Pattern is required for all repeating events.** If you leave this field blank, we will not approve your event.
 1.	Select `event recurs` to bring up the recurrence menu.
