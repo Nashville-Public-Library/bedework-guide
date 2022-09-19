@@ -103,9 +103,14 @@ Choose the series. Tags are used to create curated lists of events--for both int
 - Seed Exchange
 - Studio NPL
   - DO use the Studio tag for the following programs:
-  - Digital literacy-based maker activities
+    - Digital literacy-based maker activities
+    - STEAM programs for teens from the following STEAM list
+  -	DO NOT use Studio NPL series for:
+      - Food-oriented events such as Candy Bingo, Snack Attack.
+      -	Craft programs like button-making, watercolor painting, and Origami workshops.
+      - Game-playing programs like Wii tournament, Gaming Monday, and Magic Cards.
 - STEAM (children and teens only)
-  - Use for STEM-related educational programs
+    - Use for STEM-related educational programs
       -	Career pathways
       - 3D printing
       - Music production
@@ -116,10 +121,6 @@ Choose the series. Tags are used to create curated lists of events--for both int
       - Paper circuits/paper crafts
       -	Wearables
       - Coding/Game Design
-  -	DO NOT use Studio NPL series for:
-      - Food-oriented events such as Candy Bingo, Snack Attack.
-      -	Craft programs like button-making, watercolor painting, and Origami workshops.
-      - Game-playing programs like Wii tournament, Gaming Monday, and Magic Cards.
 -	Summer Challenge
     - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
     -	DO tag an event “Summer Challenge” if its title is “Preschool Story Time: Reading Challenge,” and its description indicates that kids will read and log points for the challenge.

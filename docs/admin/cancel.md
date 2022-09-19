@@ -13,13 +13,12 @@ There are few instances where we will actually delete a listing from the events 
 ## Deleting Events
 -	You CAN delete events from the calendar in the following instances:
 -	Duplicate entries - If an event listing is a duplicate, delete the extra instance.
--	Canceled and NOT printed in Unbound - If an event is canceled and it was NOT printed in Unbound back of book, delete the listing.
 -	Holidays / Closed Days -
 -	Approving events - Approvers should delete all event listings that fall on holidays / closed days before approving.
 -	Prior to Exporting Pixie Dust - Delete all events that fall on holidays / closed days before exporting the final Pixie Dust document for back of book.
 -	Do NOT delete an event in the following cases:
--	Event canceled, listed in Unbound back of book - Once an event is published in Unbound, we do not delete it from the calendar. Instead, mark the event canceled.
--	Closed day, listed in Unbound back of book - Even if the event falls on a holiday, if the event is published in Unbound back of book, we leave the event in the calendar and mark it canceled.
+-	Event canceled, event publicized in print. Instead, mark the event canceled.
+-	Closed day. - Even if the event falls on a holiday, if the event is published in print, leave the event in the calendar and mark it canceled.
 
 ## Rescheduled Events
 -	If event was canceled and has been rescheduled, leave the original marked canceled and create a new event. If the canceled event is still in the future, note the new date/time in the description of the original canceled listing.

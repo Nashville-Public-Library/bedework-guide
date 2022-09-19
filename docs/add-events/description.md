@@ -21,7 +21,7 @@ Focus on a call to action/invitation.
 Use appropriate calls to action (CTAs), and vary them appropriately.  Don’t use “Join us...” for everything.
     - Visit, Don’t miss, Drop by, Come see, Learn, Make
 
-Use present tense in descriptions, not future tense. Present tense is appropriate in both _Unbound_ and online events calendar contexts.  
+Use present tense in descriptions, not future tense. Present tense is appropriate in the online events calendar contexts.  
     - YES: We dance, play, and sing.
     - NO: We will dance, play and sing.
     - YES: Jane Doe presents
@@ -62,6 +62,6 @@ Append this Seed Exchange pitch to all gardening events.
 ## Common Errors
 - Don't include a recurrence pattern (e.g., “Every Tuesday”) in your event descriptions.
 - Don't include event times in the description field.  
-- Don't include the branch name in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in both Unbound and web events calendar contexts.
+- Don't include the branch name in the description field, e.g. “please call the Boisterous Branch to register” or “Come to the Boisterous Branch…”. This is redundant information in web events calendar context.
 - Don't use "Call for more information." If there is any more information about the event, include it.
 -	Don’t use special characters in titles. ``(& ` ~ @)``

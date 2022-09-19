@@ -49,7 +49,7 @@ Choose your recurrence method. There are two ways to add recurrences. Choose Onl
 
 ## Delete All Duplicate Recurrences
 
-When it is time to create the back of book listings for Unbound, Web Services exports data from the calendar. All events entered as recurring events will be condensed into one listing. If you have a special themed story time, you must delete the instance from the recurring event, then re-add the special story time as a separate event.
+ All events entered as recurring events will be condensed into one listing. If you have a special themed story time, you must delete the instance from the recurring event, then re-add the special story time as a separate event.
 
 For example, Miss Sue’s Story Time starts on December 1st and repeats 12 times in the calendar. But Gnash is coming on December 15th. Here’s how Sue will add this to the calendar:
 1. Sue will add "Miss Sue’s Story Time" to the calendar as a recurring event.
