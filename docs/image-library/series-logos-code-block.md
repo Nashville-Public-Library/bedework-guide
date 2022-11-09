@@ -5,6 +5,13 @@ sidebar_position: 1
 
 # Series Logos
 
+## Affordable Care Act
+```
+/public/images/aca-202211080958.jpg
+```
+```
+/public/images/aca-202211080958-thumb.png
+```
 ## Banned Books Week
 ```
 /public/images/NPL_BannedBooksWeek_450 (1)-201908211026.jpg
@@ -151,13 +158,6 @@ sidebar_position: 1
 ```           
 ```
 /public/images/npl-means-business-web-2-202203030358-thumb.png
-```           
-## Open Enrollment (Get Covered TN)
-```           
-/public/images/getcovered-201608310254.png
-```           
-```
-/public/images/getcovered-201608310254.png
 ```           
 ## Panel Discussion
 ```
