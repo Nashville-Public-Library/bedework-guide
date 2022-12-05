@@ -229,6 +229,13 @@ sidebar_position: 1
 ```
 /public/images/S.T.E.A.M.-201612030342-thumb.png
 ```
+## Spanish Story Time
+```
+/public/images/spanish-story-time-icon-202212050211.png
+```
+```
+/public/images/spanish-story-time-icon-202212050211-thumb.png
+```
 ## Summer Lunch at the Library
 ```
 /public/images/Summer-Lunch-at-NPL-201805240219.jpg
