@@ -63,8 +63,7 @@ Choose the series. Tags are used to create curated lists of events--for both int
   -	DO NOT use for: book clubs, general adult programming, technology classes/labs, or jobs labs.
 -	African American History Month (MarComm)
   -	Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
-      -	DO tag an event “African American History Month” if its title is “Preschool Story Time: Harriet Tubman,” and its description indicates that kids will hear Harriet Tubman stories and make an Underground Railroad craft.
-      -	DO NOT tag an event “African American History Month” if its title is “Preschool Story Time” and its description is “Join us for stories, songs, and crafts!”
+      -	DO USE for “Preschool Story Time: Harriet Tubman,” and its description indicates that kids hear Harriet Tubman stories and make an Underground Railroad craft.
 -	Artober
       -	Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
       -	DO tag an event “Artober” if, for instance, its name is Preschool Story Time: Make an Animal Sculpture, and its description is “Celebrate Artober! We’ll hear stories about autumn and make clay creatures you can take home with you.”
@@ -94,11 +93,14 @@ Choose the series. Tags are used to create curated lists of events--for both int
 -	Nashville Reads
       - Apply series tags ONLY when the title and description clearly indicate and specify the series theme.
 - NPL Universe
-  - Add to any program occuring online, instead of in-person.
+  - Add to any program occurring online, instead of in-person.
 - Read to Rise
-  - DO tag Read to Rise if you are doing a program/story time where you will give parents and caregivers time to read aloud to their child - even if it's just the last 5 minutes.
-  - DO tag Read to Rise if you are having a special event where you are handing out prizes to children or celebrating their "graduation" from the program.
-      - DO tag Read to Rise if you are having a special event that focuses on signing children up for Read to Rise.
+  - DO tag Read to Rise if you are
+    - Having a program for children 5 years old, or younger.
+    - Mentioning the Read to Rise program by name.
+    - Giving parents and caregivers time to read aloud to their child - even if it's just the last 5 minutes.
+    - Handing out prizes to children or celebrating their "graduation" from the Read to Rise program.
+    - Signing children up for Read to Rise.
 -	Salon@615
 - Seed Exchange
 - Studio NPL
