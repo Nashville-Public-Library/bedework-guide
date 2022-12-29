@@ -271,6 +271,13 @@ sidebar_position: 1
 ```
 /public/images/vinyl-club-201706271138-thumb.png
 ```
+## VITA Tax Assistance
+```
+/public/images/vita-202211280114.jpg
+```
+```
+/public/images/vita-202211280114-thumb.png
+```
 ## Votes for Women   
 ```
 /public/images/bedework-vote-large-201609291049.png
