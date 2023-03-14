@@ -5,7 +5,7 @@ sidebar_position: 3
 # Wishing Chair Productions Images
 ## Aesop's Fables
 ```
-/public/images/aesop'sFables_white-201606200929.jpg
+/public/images/aesop-resized-202303140126.jpg
 ```
 ```
 /public/images/puppet-show-black-80.png
@@ -237,3 +237,14 @@ string city poster
 ``` 
 tomas and the library lady
 ```  
+
+## World of Mother Goose
+```
+/public/images/w-o-mother-goose-202303140120.jpg
+```
+```
+/public/images/puppet-show-black-80.png
+```
+```
+world of mother goose
+```
