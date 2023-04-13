@@ -280,10 +280,10 @@ sidebar_position: 1
 ```
 ## Votes for Women   
 ```
-/public/images/bedework-vote-large-201609291049.png
+/public/images/votes-for-women-img-2023-202304130415.jpg
 ```
 ```
-/public/images/votes-for-women_logo-202203101053-thumb.png
+/public/images/votes-for-women-img-2023-202304130415-thumb.png
 ```
 ## Voting
 ```
