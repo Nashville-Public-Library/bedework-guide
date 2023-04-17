@@ -166,6 +166,23 @@ Lorraine book cover
 ```
 illustration of momatoro                                 
 ```
+## Puppet Show Icon
+```
+/public/images/puppet-show-black-217.png
+```           
+```
+/public/images/puppet-show-black-80.png
+```
+## Puppet Truck
+```
+/public/images/puppet-truck-2-400px-202304170154.jpg
+```
+```
+/public/images/puppet-truck-2-400px-202304170154-thumb.png
+``` 
+```
+puppet truck
+```
 ## Puppet Truckin' with Mr. B    
 ```
 /public/images/Puppet%20Truckin'%20Logo%20v2_bedework-202005290430.jpg
