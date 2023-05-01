@@ -78,7 +78,7 @@ https://events.library.nashville.org/cal/main/listEvents.do?b=de&listMode=true&s
 - Topic > Story Time AND Location > Green Hills AND Age > Children:
 https://events.library.nashville.org/cal/main/listEvents.do?setappvar=bwFilters(bwNav0-useragrpcalsuiteMainCampusChildrens|bwNav1-publicaliasesLocationsGreenHills|bwNav2-publicaliasesBrowseByTopicStoryTime|)&setappvar=bwQuery()  
 
-- Age > Teen AND Series > Studio NPL AND Topic > Music AND Location > East: https://events.library.nashville.org/cal/main/listEvents.do?setappvar=bwFilters(bwNav0-useragrpcalsuiteMainCampusTeens|bwNav1-publicaliasesLocationsEast|bwNav2-publicaliasesBrowseByTopicMusic|bwNav3-useragrpcalsuiteMainCamupsSeriesStudioNPL)&setappvar=bwQuery()
+- Age > Teen AND Series > Studio NPL AND Topic > Music AND Location > East: https://events.library.nashville.org/cal/main/listEvents.do?setappvar=bwFilters(bwNav0-useragrpcalsuiteMainCampusTeens|bwNav1-publicaliasesLocationsEast|bwNav2-publicaliasesBrowseByTopicMusic|bwNav3-useragrpcalsuiteMainCampusSeriesStudioNPL)&setappvar=bwQuery()
 
 - One Location: Online (NPL Universe): https://events.library.nashville.org/cal/main/setSelectionList.do?b=de&listMode=true&setappvar=bwFilters(|bwNav1-publicaliasesLocationsOnline||)&setappvar=bwQuery()
 

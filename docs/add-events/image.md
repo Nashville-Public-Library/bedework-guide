@@ -35,3 +35,14 @@ sidebar_position: 8
 1.	If your image uploaded successfully, you’ll see a file name after the “Choose File” button.
 1.	Add Alt Text. Alt Text helps the seeing-impaired identify pictures.
 1.	Your image will be visible in the event listing after you click Add Event at the end of the form.
+## Puppet Shows
+Use Images from Image Library under [Wishing Chair Productions Images](docs/image-library/wishing-chair-image-library.md)
+### Puppet Truck
+- For Image URL, use the show-specific image.
+- For Thumbnail URL, use the Puppet Truck Thumb image.
+- Exception: For String City, use String City image and thumbnail.
+### Main Childrens Theatre
+- For Image URL, use show-specific image.
+- For Thumbnail, use show-specific thumbnail image
+### Wishing Chair Productions Story Time
+- Use Story Time image and thumb
