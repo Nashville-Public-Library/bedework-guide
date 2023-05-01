@@ -106,7 +106,7 @@ ellingtown illustration
 /public/images/Kaytek_150-201611080924.jpg
 ```   
 ```
-https://events.library.nashville.org/pubcaldav/public/images/Kaytek_150-201611080924-thumb.png
+/public/images/Kaytek_150-201611080924-thumb.png
 ```
 ## Legend of Sleepy Hollow
 ```
