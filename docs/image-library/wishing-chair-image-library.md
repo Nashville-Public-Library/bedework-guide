@@ -17,7 +17,7 @@ sidebar_position: 3
 /public/images/aesop-resized-202303140126.jpg
 ```
 ```
-/public/images/puppet-show-black-80.png
+/public/images/aesop-resized-202303140126-thumb.png
 ``` 
 ```
 aesop's fables
@@ -35,9 +35,6 @@ Ali Baba
 ## Alice in Wonderland
 ```                                           
 /public/images/Alice_thumb-201609291232-thumb.png           
-```
-```
-/public/images/puppet-show-black-80.png 
 ```
 ## Amazing Twins: Ancient Maya Tales from the Popol Wuj 
 ``` 
@@ -64,9 +61,6 @@ anansi
 http://nashvillepubliclibrary.org/wishingchair/files/2014/10/wishingchair_jumping-frog.jpg
 ```
 ```
-/public/images/puppet-show-black-80.png
-```
-```
 frog illustration
 ```
 ## Child's Calendar
@@ -81,14 +75,14 @@ frog illustration
 /public/images/wishing-chair-cinderella.jpg                         
 ```
 ```
-/public/images/puppet-show-black-80.png 
+/public/images/wishing-chair-cinderella-thumb.png
 ```              
 ## Ellingtown                    
 ```
 /public/images/wishingchair_ellingtown_300-201605241135.jpg         
 ```       
 ```
-/public/images/puppet-show-black-80.png 
+/public/images/wishingchair_ellingtown_300-201605241135-thumb.png
 ```
 ```
 ellingtown illustration
@@ -111,6 +105,9 @@ ellingtown illustration
 ```
 /public/images/Kaytek_150-201611080924.jpg
 ```   
+```
+https://events.library.nashville.org/pubcaldav/public/images/Kaytek_150-201611080924-thumb.png
+```
 ## Legend of Sleepy Hollow
 ```
 /public/images/SleepyHollowscary3resized-202106100255.jpg
