@@ -3,6 +3,15 @@ sidebar_position: 3
 ---
 
 # Wishing Chair Productions Images
+### Puppet Truck
+- For Image URL, use the use the Puppet Truck image.
+- For Thumbnail URL, use the Puppet Truck thumb image.
+- Pictures must match for events to display  correctly on the Wishing Chair home page.
+### Main Library Children's Theatre
+- For Image URL, use show-specific image.
+- For Thumbnail, use show-specific thumbnail image.
+### Wishing Chair Productions Story Time
+- Use Story Time image and thumb from [series logos](../docs/image-library/series-logos-code-block.md) list. Pictures must match for events to display correctly on Wishing Chair Productions home page.
 ## Aesop's Fables
 ```
 /public/images/aesop-resized-202303140126.jpg
@@ -102,15 +111,12 @@ ellingtown illustration
 ```
 /public/images/Kaytek_150-201611080924.jpg
 ```   
-```
-/public/images/puppet-show-black-80.png 
-```
 ## Legend of Sleepy Hollow
 ```
-/public/images/sleepyhollow-bedework-201605190400.jpg
+/public/images/SleepyHollowscary3resized-202106100255.jpg
 ```
 ```
-/public/images/puppet-show-black-80.png 
+/public/images/SleepyHollowscary3resized-202106100255-thumb.png 
 ```
 ## Library Pete and Friends
 ```
@@ -198,7 +204,7 @@ Puppet Truckin' with Mr. B
 /public/images/PNB-color%20resized-201909180509.jpg
 ```
 ```
-/public/images/puppet-show-black-80.png
+/public/images/WishingChair_Puss-in-Boots-201906180359-thumb.png
 ```
 ```
 puss in boots
@@ -254,7 +260,6 @@ string city poster
 ``` 
 tomas and the library lady
 ```  
-
 ## World of Mother Goose
 ```
 /public/images/w-o-mother-goose-202303140120.jpg
