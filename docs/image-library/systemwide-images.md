@@ -207,10 +207,10 @@ sidebar_position: 2
 ```
 ## Mr. Bond and Science Guys                    
 ```
-/public/images/Mr Bond Logo 600 x 600-202003260141.jpg
+/public/images/mr-bond-science-logo-202305050735.jpg
 ```
 ```
-/public/images/Mr Bond Logo 600 x 600-202003260141-thumb.png
+/public/images/mr-bond-science-logo-202305050735-thumb.png
 ```                 
 ## Mr. Rich Super Science TN                         
 ```
