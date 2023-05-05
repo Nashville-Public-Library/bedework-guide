@@ -198,14 +198,7 @@ sidebar_position: 2
 ```
 /public/images/Metro-Parkslogo-202105260643-thumb.png
 ```                                 
-## Mr. Bond and Science Guys (illustration)          
-```
-/public/images/mr-bond_science-guys_forBedework-201903280805.jpg
-```                
-```
-/public/images/mr-bond_science-guys_forBedework-201903280805-thumb.png
-```
-## Mr. Bond and Science Guys                    
+## Mr. Bond and the Science Guys                    
 ```
 /public/images/mr-bond-science-logo-202305050735.jpg
 ```
