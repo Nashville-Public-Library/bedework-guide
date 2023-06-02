@@ -15,6 +15,7 @@ Delete events from the calendar if:
 -	Duplicate entries - If an event listing is a duplicate, delete the extra instance.
 -	Holidays / Closed Days
 -	Approving events - Approvers should delete all event listings that fall on holidays / closed days before approving.
+
 _Do not_ delete an event if:
 -	Event canceled, event publicized in print. Instead, mark the event canceled.
 -   Event occurs in less than two weeks.
