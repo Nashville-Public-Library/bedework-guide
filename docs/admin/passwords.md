@@ -3,13 +3,13 @@ sidebar_position: 3
 ---
 
 # Users and Passwords
-Adding users to Events and Steven is a two step process. The admin client doesn't know anything about what you're doing in the jmx-console.
+Adding users to Events is a two step process. The admin client doesn't know anything about what you're doing in the jmx-console.
 
 It's the difference between authentication (which is whether you can log in or not) and authorization (whether you allowed to administer the system). The jmx-console is handling authentication. Adding users to the superuser list or adding them to an admin group handles authorization.
 
-So, getting users up and going is a two step process. Add them in the jmx-console and then visit the admin client and add them to an admin group.
+ Add them in the jmx-console and then visit the admin client and add them to an admin group.
 
-Deleting users cleanly is also a two step process. If you succeed in removing the user in the jmx-console, then the user won't be able to log in at all. So, you've removed a user via the jmx-console, they'll be shut out of the system. To keep things orderly, remember to remove the user from Bedework groups as well.
+Deleting users cleanly is also a two step process. If you succeed in removing the user in the jmx-console, then the user won't be able to log in at all. So, you've removed a user via the jmx-console, they'll be shut out of the system. To keep things orderly, remember to remove the user from Bedework Users groups as well.
 ## User Creation / Management Checklist
 Use this checklist when adding/editing/removing users from the JMX Console, Events, and Steven:
 https://docs.google.com/spreadsheets/d/15lZvfREpHoSwTy_n7Ix8KBJccKTY_E5mvqFNXrpHHSQ/edit?usp=sharing
